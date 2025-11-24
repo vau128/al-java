@@ -11,6 +11,6 @@ public class Main {
         System.out.println("dd");
         System.out.println("github push TEST");
 
-        System.out.println("no");
+        System.out.println("nonono");
     }
 }
