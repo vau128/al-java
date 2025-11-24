@@ -5,13 +5,10 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         String N = sc.nextLine();
-        int B = sc.nextInt();
+
+        int B = Integer.parseInt(sc.nextLine());
 
         System.out.println("dd");
         System.out.println("github push TEST");
-
-        
-
-
     }
 }
