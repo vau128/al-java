@@ -8,6 +8,7 @@ public class Main {
         int B = sc.nextInt();
 
         System.out.println("dd");
+        System.out.println("github push TEST");
 
         
 
