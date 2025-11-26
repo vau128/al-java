@@ -14,5 +14,6 @@ public class Main {
         System.out.println("nonono");
 
         System.out.print("i want to sleep");
+        System.out.println("3rd");
     }
 }
